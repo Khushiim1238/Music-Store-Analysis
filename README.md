@@ -41,6 +41,7 @@ This project analyzes a digital music store database using SQL queries to help u
 - **Customer Behavior**: Average customer spends $X per transaction
 - **Seasonal Trends**: Peak sales occur during [specific months]
 
+
 ## 🎓 Learning Outcomes
 By completing this project, you will learn:
 - ✅ Writing complex SQL queries with JOINs
@@ -50,13 +51,13 @@ By completing this project, you will learn:
 - ✅ Grouping and sorting data effectively
 - ✅ Business intelligence and data storytelling
 
+
 ## 🤝 Contributing
 This is a learning project, but feel free to:
 - Suggest new analysis questions
 - Improve existing queries
 - Add visualizations
 - Share interesting insights
-- 
 
 ## 🙏 Acknowledgments
 - Dataset inspiration from various online music store analysis projects
