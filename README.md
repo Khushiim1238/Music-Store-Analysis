@@ -18,29 +18,24 @@ This project analyzes a digital music store database using SQL queries to help u
 ## 📊 Database Schema
 <img width="594" height="598" alt="schema_diagram" src="https://github.com/user-attachments/assets/bd94b343-10e8-4765-8a90-978dd1b7aabd" />
 
-
 ## 🔍 Key Analysis Questions
 ### Beginner Level
 - Who is the senior most employee based on job title?
 - Which countries have the most invoices?
 
-
 ### Intermediate Level
 - Who is the best customer (spent the most money)?
 - Find all rock music listeners with their email, first name, last name, and genre
 
-
 ### Advanced Level
 - Find customers who have spent more than average
 - Most popular music genre for each country
-
 
 ## 📈 Sample Insights
 - **Top Revenue Country**: Identified which country generates the highest revenue
 - **Popular Genre**: Rock music dominates with X% of total sales
 - **Customer Behavior**: Average customer spends $X per transaction
 - **Seasonal Trends**: Peak sales occur during [specific months]
-
 
 ## 🎓 Learning Outcomes
 By completing this project, you will learn:
@@ -50,7 +45,6 @@ By completing this project, you will learn:
 - ✅ Data filtering with WHERE and HAVING clauses
 - ✅ Grouping and sorting data effectively
 - ✅ Business intelligence and data storytelling
-
 
 ## 🤝 Contributing
 This is a learning project, but feel free to:
